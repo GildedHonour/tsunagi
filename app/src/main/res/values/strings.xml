@@ -1,0 +1,12 @@
+<resources>
+    <string name="appName">Tsunagi</string>
+    <string name="developerName">Alex Maslakov</string>
+    <string name="developerEmail">me@alexmaslakov.me</string>
+    <string name="developerFullName">Alex Maslakov, me@alexmaslakov.me</string>
+    <string name="githubRepository">https://github.com/GildedHonour/Tsunagi</string>
+
+    <string name="inbox">Inbox</string>
+    <string name="sent">Sent</string>
+    <string name="trash">Trash</string>
+    <string name="compose">Compose</string>
+</resources>
